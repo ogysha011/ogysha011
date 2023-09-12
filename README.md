@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ognjen</h1>
+<h1 align="center">Hello everyone!, I'm Ognjen</h1>
 <h3 align="center">A unemployed fullstack developer from Serbia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogyzz&label=Profile%20views&color=0e75b6&style=flat" alt="ogyzz" /> </p>
