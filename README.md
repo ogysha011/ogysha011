@@ -1,11 +1,11 @@
 <h1 align="center">Hello everyone!, I'm Ognjen</h1>
-<h3 align="center">A unemployed fullstack developer from Serbia</h3>
+<h3 align="center">A 19years old unemployed fullstack developer from Serbia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogyzz&label=Profile%20views&color=0e75b6&style=flat" alt="ogyzz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogyzz" alt="ogyzz" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [ogysha.wtf](https://ogyshawtf.com)
+- 👨‍💻 All of my projects are available at [ogyshawtf.com](https://ogyshawtf.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
