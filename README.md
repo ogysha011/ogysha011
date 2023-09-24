@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogyzz" alt="ogyzz" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [ogysha.wtf](ogysha.wtf)
+- 👨‍💻 All of my projects are available at [ogysha.wtf](https://ogyshawtf.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
